@@ -2,7 +2,7 @@
 
 
 
-I'm a software/biomedical engineer who is passionate about making contributing to software-biomedical industry and create new technologies to improve people life and health by devolping new features for biomedical devices using software and devolep new ideas for new biomedical devices.
+I'm a software/biomedical engineer who is passionate about making contributing to software-biomedical industry and create new technologies to improve people health and life by devolping new features for biomedical devices using software and devolep new ideas for new medical equipment.
 
 
 
